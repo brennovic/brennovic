@@ -1,9 +1,5 @@
 ### 👋 Olá, eu sou brenno
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenno_vic/)
-
-![brennovic GitHub stats](https://github-readme-stats.vercel.app/api?username=brennovic&show_icons=true&theme=dark)
-
 ### Tecnologias que estou utilizando no momento
 
 <div style="display: inline_block"><br/>
